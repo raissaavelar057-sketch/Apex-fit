@@ -1,0 +1,6 @@
+{
+  "name": "ApexFit - Evolução ABCDE na Academia",
+  "description": "Aplicativo mobile de acompanhamento de treinos e evolução na academia com divisão ABCDE, registro de cargas, séries, repetições, modelo padrão e tutoriais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
